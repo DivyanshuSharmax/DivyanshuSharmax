@@ -38,7 +38,7 @@ If it needs to **work, scale, automate, or think** — I’m your guy.
 
 # 🌟 Featured Projects  
 
-### 🟣 **1. Miro Board Clone**  
+### 🟣 **1. Miro Board**  
 A collaborative whiteboard tool inspired by Miro.  
 **Features:**  
 - Real-time drawing & cursor positions  
@@ -84,18 +84,6 @@ A platform connecting users to property owners/vendors for bookings.
 - Search filters + maps  
 - Admin control panel  
 **Tech:** Next.js, Supabase/PostgreSQL, Stripe, Tailwind, Node.js  
-
----
-
-## 🏆 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DivyanshuSharmax&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuSharmax&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSharmax&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
