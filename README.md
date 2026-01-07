@@ -88,6 +88,5 @@ A platform connecting users to property owners/vendors for bookings.
 ---
 
 ## 📫 Contact Me  
-📩 **Email:** divyanshu.shx@gmail.com  
-💼 **Upwork:** https://www.upwork.com/freelancers/~014adf8a6815383e7d  
+📩 **Email:** divyanshu.shx@gmail.com    
 🌐 **Portfolio:** https://divyanshu-portfolio-nu.vercel.app  
